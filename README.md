@@ -1,4 +1,4 @@
-[![Hungariannotation's GitHub stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![HungarianNotation's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungarianNotation)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
 ░██████░████████                           ░██████             ░██           
