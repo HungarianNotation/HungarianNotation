@@ -13,13 +13,6 @@
 
 # 🚀 My Design & Dev Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/✨_Interactive_Prototypes-0A0A0A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎨_Figma_&_Code-0A0A0A?style=for-the-badge" />
-</p>
-
----
-
 ## 🏕️ СтудБаза
 > Student platform – design system + presentation + backend repo
 
